@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Kartik!
 
-<!--
-**kartiksonaghela/kartiksonaghela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤖 Data Scientist 📊🧠
 
-Here are some ideas to get you started:
+📍 **Mumbai**  
+📧 **Email:** [kbs.kartik@gmail.com](mailto:kbs.kartik@gmail.com)  
+🔗 **LinkedIn:** [kartik](https://www.linkedin.com/in/kartik-sonaghela-6a4608169/)  
+👨‍💻 **GitHub:** [kartiksonaghela](https://github.com/kartiksonaghela)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🌐
+I’m a Data Scientist who loves using AI and machine learning to solve real-world problems. I enjoy turning data into insights and finding creative solutions that make a difference. When I’m not working with data, you can find me exploring new technologies or reading about the latest trends in AI.
+
+### Professional Highlights 🌟
+- **Data Scientist** - Deep Neura Technologies, Mumbai (2022 - Present)
+- **Jr Data Scientist** - Care Risk Solutions, Mumbai (2021 - 2022)
+
+### Tech Stack 🛠️
+- **Languages:** Python, SQL
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface
+- **Tools:** Docker, Git
+- **Specialties:** LLMs, Generative AI, NLP, RAG
+
+### Education 🎓
+- **Bachelor of Engineering**, K. J. Somaiya Institute of Technology, Mumbai, Maharashtra
