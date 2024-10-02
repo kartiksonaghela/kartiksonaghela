@@ -6,6 +6,7 @@
 📧 **Email:** [kbs.kartik@gmail.com](mailto:kbs.kartik@gmail.com)  
 🔗 **LinkedIn:** [kartik](https://www.linkedin.com/in/kartik-sonaghela-6a4608169/)  
 👨‍💻 **GitHub:** [kartiksonaghela](https://github.com/kartiksonaghela)
+
 📝 **Medium:** [kartik](https://medium.com/@kbs.kartik)
 
 ### About Me 🌐
