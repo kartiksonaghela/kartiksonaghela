@@ -4,9 +4,12 @@
 
 📍 **Mumbai**  
 📧 **Email:** [kbs.kartik@gmail.com](mailto:kbs.kartik@gmail.com)  
+
 🔗 **LinkedIn:** [kartik](https://www.linkedin.com/in/kartik-sonaghela-6a4608169/)  
+
 📝 **Medium:** [kartik](https://medium.com/@kbs.kartik)
- 👨‍💻 **GitHub:** [kartiksonaghela](https://github.com/kartiksonaghela)
+ 
+👨‍💻 **GitHub:** [kartiksonaghela](https://github.com/kartiksonaghela)
 
 
 ### About Me 🌐
