@@ -25,9 +25,9 @@ I’m a Data Scientist who loves using AI and machine learning to solve real-wor
 
 ### Tech Stack 🛠️
 - **Languages:** Python, SQL
-- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface
-- **Tools:** Docker, Git
-- **Specialties:** LLMs, Generative AI, NLP, RAG
+- **Frameworks & Libraries:** PyTorch, Langchain, Vector Databases, Huggingface,vLLM
+- **Tools:** Docker, Git,CI/CD,AWS,Postman
+- **Specialties:** LLMs, Generative AI, NLP, RAG,AI-agents,Fine-tunning
 
 ### Education 🎓
 - **Bachelor of Engineering**, K. J. Somaiya Institute of Technology, Mumbai, Maharashtra
